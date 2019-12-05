@@ -1,0 +1,32 @@
+[
+{ 
+    "nama" : "wika",
+    "umur" : 21,
+    "nrp"  : "173040060",
+    "lulus" : true,
+    "hobby" : [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Shanty Herliani",
+        "pembimbing2" : "Sandika galih"
+    }
+
+},
+{ 
+    "nama" : "yogi",
+    "umur" : 21,
+    "nrp"  : "173040060",
+    "lulus" : true,
+    "hobby" : [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing " : {
+        "pembimbing1" : "Shanty Herliani",
+        "pembimbing2" : "Sandika galih"
+    }
+
+}
+]
